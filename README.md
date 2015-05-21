@@ -1,16 +1,15 @@
-The solution for who work with git.
-The code is show current branch in terminal
+### The solution for who work with git. The code shown the current branch in terminal.
 
-Example:
+##### Example 
 
-vinicius@pontocom: ~/Área de Trabalho/git-solution (master) $
+```console
+vinicius@notebook: ~/Projects/git-solution (master) $
+```
 
+##### How to use
 
-How use:
-
-
-git clone https://github.com/vinicius123/git-solution.git
-
+```console
+git clone git@github.com:viniciusalonso/git-solution.git
 mv git-solution/.bashrc ~
-
 source ~/.bashrc
+```
